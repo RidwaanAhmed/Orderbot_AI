@@ -20,7 +20,3 @@ Small businesses waste hours every day manually replying to WhatsApp orders, cal
 3. Add your OpenAI API key to index.js
 4. Run node index.js
 5. Scan the QR code with WhatsApp
-
-## Built by
-Ridwaan Ahmed — University of Minnesota
-Built at the 0-1 Ultra Hackathon, April 2026
