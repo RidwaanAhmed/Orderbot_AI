@@ -11,7 +11,6 @@ Small businesses waste hours every day manually replying to WhatsApp orders, cal
 ## Tech stack
 - WhatsApp Web.js
 - OpenAI GPT-3.5
-- Stripe Payments
 - Node.js
 
 ## How to run
